@@ -1,1 +1,17 @@
-Hi, I'm Abdul Hadeed 👋  🎓 I'm an IT student and a beginner in Software Project Management.   💡 I believe learning is the key to success and I'm building my skills step-by-step.  📚 Currently learning:  - SDLC (Software Development Life Cycle) - Agile & Scrum Methodologies - Project Planning & Scheduling (WBS, Gantt Charts) - Tools like Jira, Trello, Git & GitHub - Team & Risk Management in software projects - Quality Assurance & Testing  🔧 I use GitHub to practice version control and share assignments.   📍 Based in Karachi, Pakistan 🇵🇰   📫 You can reach me at: abdulhadeed89@gmail. 
+Hi, I'm Abdul Hadeed 👋 🎓  
+I'm an IT student from Karachi, Pakistan 🇵🇰 and currently learning Software Project Management.
+
+🔍 I’m passionate about understanding how software projects are planned, managed, and executed.  
+📚 I believe continuous learning is the key to success and I'm growing my skills step-by-step.
+
+🛠️ Currently Exploring:
+- Software Development Life Cycle (SDLC)  
+- Agile & Scrum Methodologies  
+- Project Planning (WBS, Gantt Charts)  
+- Tools: Jira, Trello, Git & GitHub  
+- Team & Risk Management  
+- Quality Assurance & Testing  
+
+💻 I use GitHub to practice version control, collaborate on projects, and share my work.
+
+📫 Feel free to reach out: *abdulhadeed89@gmail.com
